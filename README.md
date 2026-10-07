@@ -1,73 +1,80 @@
 <div align="center">
-  <img src="banner.png" alt="METLA Cleaner Banner" width="100%" />
-  
-  # METLA Cleaner
-  ### Premium Android Optimizer
-  
-  **Sees. Cleans. Keeps. Never sleeps.** 
-  
-  [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://www.android.com/)
-  [![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
-  [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-UI-4285F4?style=for-the-badge&logo=android)](https://developer.android.com/jetpack/compose)
-  [![License](https://img.shields.io/badge/License-Private-red?style=for-the-badge)]()
+  <img src="assets/metla-hero.png" alt="METLA Cleaner — Delete. Rethink. Restore." width="100%" />
 
-  <br/>
-  
-  [Join Closed Beta](https://metla-cleaner.carrd.co) • [Follow Updates](https://x.com/AlBaduDev)
+  <h1>METLA Cleaner</h1>
+
+  <p><b>Delete. Rethink. Restore.</b></p>
+
+  <p>A careful storage cleaner for Android by Al Badu team.<br/>
+  Files go to Quarantine first — restore them while they’re there.</p>
+
+  <p>
+    <a href="https://t.me/+Me-spaSN_ZQxODUy">Join the closed test</a> ·
+    <a href="https://albadun.github.io/metla-privacy/">Privacy policy</a> ·
+    <a href="https://metla-cleaner.carrd.co">All links</a>
+  </p>
 </div>
 
 ---
 
-## About METLA
+## What METLA does
 
-METLA isn't just another cleaner. It's a statement against "scammy" optimization apps that lie about RAM boosting and battery saving. 
+- **What can be cleaned** — thumbnails, downloads, duplicates, old and large files, empty folders, sorted by category.
+  Open a category, see the files, delete only what you choose.
+- **Duplicates** — finds exact copies of files and keeps the original.
+- **Media** — images, video, audio, documents and messenger folders.
+- **Quarantine** — deleted files wait here for 7–30 days (longer with METLA Pro) and come back in one tap.
+  Quarantine has a size limit (1 GB by default, adjustable): when it is full, the oldest files are removed for good
+  before their time. “Delete forever” in Quarantine erases right away.
+- **Apps** — see what you haven’t used in a while and remove what you don’t need.
+- **Activity and Anti-Spy** — how long apps run and which of them can use the camera, microphone, location and
+  contacts, with a shortcut to the settings to take that access back.
+- **Device Pulse** — storage, memory, processor load, battery and how fresh the security update is.
+- **App cache** — METLA shows how much there is and how to clear it in the phone settings (Android does not let one
+  app clear the cache of other apps).
 
-Built with a **Dark Cosmic** aesthetic and powered by a "Living Pulsar" UI, METLA offers a premium, transparent, and private cleaning experience for Android devices. We don't fake performance; we optimize storage with style and respect for your data.
+## Free and Pro
 
-### Key Features
+**Free:** scan, browse, delete what you choose, Quarantine, Anti-Spy and 3 quick cleanups a day.
 
--   **Living Pulsar UI:** A unique, animated interface built with Jetpack Compose that makes cleaning feel alive.
--   **True Quarantine:** Files aren't deleted instantly. They go to a secure quarantine zone with configurable retention, giving you full control.
--   **Privacy First:** All processing happens locally on your device. No data uploads, no cloud analytics, no tracking.
--   **Deep Clean:** Intelligent duplicate finder and cache cleaner that actually frees up space without breaking your apps.
+**METLA Pro:** unlimited cleanup, delete or restore everything in one tap, nightly auto-clean, Radar (tells you when an
+app you limited runs in the background again), live Device Pulse and longer Quarantine.
 
----
+Subscriptions for 1 device or a family (up to 3 or 5 devices) — monthly, quarterly or yearly — or a one-time lifetime
+purchase. Payments go through Google Play only.
 
-## Interface
+## Privacy
+
+Your files stay on your phone: scanning and cleaning happen on the device. METLA asks for permissions only for the
+features that need them. The app collects usage analytics and crash reports (Firebase) — details in the
+[privacy policy](https://albadun.github.io/metla-privacy/).
+
+## Screenshots
 
 <div align="center">
-  <img src="screenshot_dashboard.png" alt="Dashboard Monitor" width="30%" />
-  <img src="screenshot_clean.png" alt="Storage Scan" width="30%" />
-  <img src="screenshot_quarantine.png" alt="Quarantine Restore" width="30%" />
+  <img src="assets/monitor-en.jpg" alt="Monitor" width="30%" />
+  <img src="assets/storage-en.jpg" alt="Storage" width="30%" />
+  <img src="assets/quarantine-en.png" alt="Quarantine" width="30%" />
 </div>
 
----
+## Status
 
-## Tech Stack
+METLA Cleaner is in closed testing on Google Play (version 1.3.0). Android 8 and newer, phones and tablets, English and
+Russian. To join the test, come to the [testers chat](https://t.me/+Me-spaSN_ZQxODUy).
 
-METLA is built using modern Android development practices:
+## Built with
 
--   **Language:** `Kotlin`
--   **UI:** `Jetpack Compose` (Material 3 Dark Theme)
--   **Architecture:** `Clean Architecture` + `MVVM`
--   **Async:** `Kotlin Coroutines` + `Flow`
--   **Local DB:** `Room`
+Kotlin · Jetpack Compose · Clean Architecture + MVVM · Coroutines and Flow · Room · WorkManager · Hilt · Firebase
 
----
+## By Al Badu team
 
-## Author
-
-**Al Badu**  
-*Indie Android Developer | Founder of METLA Cleaner*
-
--   [GitHub](https://github.com/AlBadun)
--   [LinkedIn](https://www.linkedin.com/in/al-badu-a34151273/)
--   [Twitter/X](https://x.com/AlBaduDev)
+[YouTube](https://www.youtube.com/@METLA_Cleaner) · [X](https://x.com/METLA_Cleaner) ·
+[Telegram](https://t.me/metla_cleaner_en) · [LinkedIn](https://www.linkedin.com/in/al-badu-a34151273/)
 
 ---
 
-<div align="center">
-  <sub>Built with precision in Da Nang, Vietnam</sub>
-  <br/>
-  <sub>© 2026 METLA Cleaner. All rights reserved.</sub>
-</div>
+**По-русски.** Удалил. Передумал. Вернул. METLA Cleaner — бережная очистка Android: файлы сначала попадают в Карантин,
+и их можно вернуть, пока они там. Сейчас идёт закрытое тестирование в Google Play, чат тестировщиков:
+https://t.me/+Me-spaSN_ZQxODUy
+
+<sub>© 2026 Al Badu team. The METLA Cleaner source code is private; this repository is a public showcase.</sub>
