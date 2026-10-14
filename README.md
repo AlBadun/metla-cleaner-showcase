@@ -9,7 +9,7 @@
   Files go to Quarantine first — restore them while they’re there.</p>
 
   <p>
-    <a href="https://t.me/+Me-spaSN_ZQxODUy">Join the closed test</a> ·
+    <a href="https://t.me/metla_cleaner_en">Follow the launch</a> ·
     <a href="https://albadun.github.io/metla-privacy/">Privacy policy</a> ·
     <a href="https://metla-cleaner.carrd.co">All links</a>
   </p>
@@ -59,8 +59,8 @@ features that need them. The app collects usage analytics and crash reports (Fir
 
 ## Status
 
-METLA Cleaner is in closed testing on Google Play (version 1.3.0). Android 8 and newer, phones and tablets, English and
-Russian. To join the test, come to the [testers chat](https://t.me/+Me-spaSN_ZQxODUy).
+METLA Cleaner is preparing for public release on Google Play. Android 8 and newer, phones and tablets, English and
+Russian. Launch updates: [@metla_cleaner_en](https://t.me/metla_cleaner_en).
 
 ## Built with
 
@@ -74,7 +74,7 @@ Kotlin · Jetpack Compose · Clean Architecture + MVVM · Coroutines and Flow ·
 ---
 
 **По-русски.** Удалил. Передумал. Вернул. METLA Cleaner — бережная очистка Android: файлы сначала попадают в Карантин,
-и их можно вернуть, пока они там. Сейчас идёт закрытое тестирование в Google Play, чат тестировщиков:
-https://t.me/+Me-spaSN_ZQxODUy
+и их можно вернуть, пока они там. Готовим публичный релиз в Google Play. Новости:
+https://t.me/metla_cleaner
 
 <sub>© 2026 Al Badu team. The METLA Cleaner source code is private; this repository is a public showcase.</sub>
